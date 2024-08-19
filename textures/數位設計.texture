@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "數位設計",
+  "identifier": "texture:106046-dc23805a-5ce1-49b2-86dd-adc1b4d04ccb",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "5c2d5580d24a50a3105174752c598cc6",
+  "assetLocator": "textures/數位設計.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 723,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "5c2d5580d24a50a3105174752c598cc6",
+      "colorCount": 42610,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.0999923666501505,
+      "pixelsHigh": 1024,
+      "pixelsWide": 723
+    }
+  ]
+}
